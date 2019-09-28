@@ -1,7 +1,27 @@
 # Awesome_ML_for_mental_health
-A curated list (currently 157 papers) of awesome work on machine learning for mental health applications, as collected for my PhD. Includes topics broadly captured by affective computing. Facial expressions, speech analysis, emotion prediction, depression, interactions, psychiatry etc. etc. Papers are listed in reverse chronological order.
+A curated list (currently 177 papers) of awesome work on machine learning for mental health applications, as collected for my PhD. Includes topics broadly captured by affective computing. Facial expressions, speech analysis, emotion prediction, depression, interactions, psychiatry etc. etc. Papers are listed in reverse chronological order.
 
 ## 2019
+
+Fully supervised speaker diarization. 	Zhang, Wang, Zhu, Paisley, Wang	https://arxiv.org/pdf/1810.04719.pdf
+
+Deep learning for human affect recognition: insights and new development.	Rouast, Adam, Chiong	https://arxiv.org/pdf/1901.02884
+
+Multi-modal analysis for the automatic evaluation of epilepsy.	Aristizabal	https://eprints.qut.edu.au/132537/1/David_Ahmedt%20Aristizabal_Thesis.pdf
+
+Facial expression recognition: a survey.	Huang, Chen, Wang	http://scholar.google.co.uk/scholar_url?url=https://www.mdpi.com/2073-8994/11/10/1189/pdf&hl=en&sa=X&d=12696794651620539335&scisig=AAGBfm3y7ccZYuDWNtQJzacogJijOTjUug&nossl=1&oi=scholaralrt
+
+Emotion recognition in low-resource settings: an evaluation of automatic feature selection methods.	Haider	https://arxiv.org/pdf/1908.10623.pdf
+
+An interaction-aware attention network for speech emotion recognition in spoken dialogs.	Yeh, Lin, Lee	https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8683293
+
+ANA at SemEval-2019 Task 3: contextual emotion detection in conversations through hierarchical LSTMs and BERT.	Huang, Trabelsi, Zaiane	https://arxiv.org/pdf/1904.00132.pdf
+
+NELEC at SemEval-2109 Task 3: Think twice before going deep.	Agrawal, Suri	https://arxiv.org/pdf/1904.03223.pdf
+
+Emotional expressions reconsidered: challenges to inferring emotion from human facial movements.	Barrett, Adolphs, Marsella, Martinez, Pollak	https://journals.sagepub.com/eprint/SAUES8UM69EN8TSMUGF9/full
+
+Emotion schemas are embedded in the human visual system.	Kragel, Reddan, LeBar, Wager	https://advances.sciencemag.org/content/5/7/eaaw4358
 
 The ambiguous world of emotion representation.	Sethu, Provost, Epps, Busso, Cummins, Narayanan	https://arxiv.org/pdf/1909.00360.pdf
 	
@@ -180,6 +200,10 @@ Fusion techniques for utterance-level emotion recognition combining speech and t
 
 ## 2018
 
+Who is reall talking? A visual-based speaker diarization strategy.	Marin-Reyes, Lorenzo-Navarro, Santana, Nielsen	https://www.researchgate.net/publication/322708912_Who_is_Really_Talking_A_Visual-Based_Speaker_Diarization_Strategy
+
+ICON: Interactive conversational memory network for multimodal emotion detection.	Hazarika, Poria, Mihalcea, Cambria, Zimmermann	https://www.aclweb.org/anthology/D18-1280
+
 Facial emotion recognition: a survey and real-world user experiences in mixed reality.	Mehta, Siddiqui, Javaid	https://www.ncbi.nlm.nih.gov/pubmed/29389845
 	
 MELD: a multimodal multi-party dataset for emotion recognition in conversations.	Poria, Hazarika, Majumder, Maik, Cambria, Mihalcea	https://arxiv.org/pdf/1810.02508.pdf	
@@ -262,6 +286,8 @@ Prediction and localization of student engagement in the wild.	Kaur, Mustafa, Me
 
 ## 2017 
 
+Multimodal machine learning: a survey and taxonomy.	Baltrusaitis, Ahuja, Morency.	https://arxiv.org/pdf/1705.09406.pdf
+
 Multi-level multiple attention for contextual multimodal sentiment analysis.	Poria, Cambria, Hazarika, Mazumder, Zadeh, Morency	https://ieeexplore.ieee.org/document/8215597/	
 
 FERA 2017 - Addressing head pose in the third facial expression recognition and analysis challenge.	Valstar, Sanchez-Lozano, Cohn, Jeni, Girard, Zhang, Yin, Panti	https://arxiv.org/pdf/1702.04174.pdf	
@@ -306,6 +332,10 @@ Automatic detection of a driver's complex mental states.	Ma, Mahmoud, Robinson	h
 
 ## 2016
 
+Multi-velocity neural networks for gesture recognition in videos.	Gupta, Raviv, Raskar.	https://arxiv.org/pdf/1603.06829.pdf
+
+A comprehensive survey on pose-invariant face recognition.	Ding, Tao	https://arxiv.org/pdf/1502.04383.pdf	
+
 Machine-learning identifies substance-specific behavioral markers for opiate and stimulant dependence.	Ahn, Vassileva	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4955649/	
 
 Predicting couple therapy outcomes based on speech acoustic features.	Nasir, Baucom, Georgiou, Narayanan	https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0185123&type=printable	
@@ -322,6 +352,8 @@ Computer-based personality judgements are more accurate than those made by human
 
 ## 2014 
 Artificial intelligence in psychological practice: current and future applications and implications.	Luxton	https://psycnet.apa.org/record/2013-39417-001
+
+Learning face representation from scratch.	Yi, Lei, Liao, Li	https://arxiv.org/pdf/1411.7923.pdf
 
 ## 2009
 
