@@ -1,5 +1,5 @@
 # Awesome_ML_for_mental_health
-A curated list (currently 177 papers) of awesome work on machine learning for mental health applications, as collected for my PhD. Includes topics broadly captured by affective computing. Facial expressions, speech analysis, emotion prediction, depression, interactions, psychiatry etc. etc. Papers are listed in reverse chronological order.
+A curated list (currently 277 papers) of awesome work on machine learning for mental health applications, as collected for my PhD. Includes topics broadly captured by affective computing. Facial expressions, speech analysis, emotion prediction, depression, interactions, psychiatry etc. etc. Papers are listed in reverse chronological order.
 
 ## 2019
 
@@ -198,9 +198,100 @@ Speech emotion recognition in dyadic dialogues with attentive interaction modeli
 
 Fusion techniques for utterance-level emotion recognition combining speech and transcripts.	Sebastian, Pierucci	https://www.isca-speech.org/archive/Interspeech_2019/pdfs/3201.pdf	
 
-## 2018
+Towards automatic face-to-face translation.	Prajwal, Mukhodpadhyay, Philip, Jha, Namboodiri, Jawahar	http://cdn.iiit.ac.in/cdn/cvit.iiit.ac.in/images/ConferencePapers/2019/ACM_Final_Face2Face.pdf
 
-Who is reall talking? A visual-based speaker diarization strategy.	Marin-Reyes, Lorenzo-Navarro, Santana, Nielsen	https://www.researchgate.net/publication/322708912_Who_is_Really_Talking_A_Visual-Based_Speaker_Diarization_Strategy
+Heterogeneity in psychiatric diagnostic classification	Allsopp, Read, Corcoran, Kinderman	https://www.ncbi.nlm.nih.gov/pubmed/31279246
+
+Failing grade: 89% of introduction to psychology textbooks that define or explain statistical significance do so incorrectly.	Cassidy, Dimova, Giguere, Spence, Stanley	https://journals.sagepub.com/doi/abs/10.1177/2515245919858072
+
+Hidden invalidity among fifteen commonly used measures in social and personality psychology	Hussey, Hughes	https://psyarxiv.com/7rbfp/
+
+
+The verbal and non verbal signals of depression - combining acoustics, text and visuals for estimating depression level.	Qureshi, Hasanuzzaman, Saha, Dias	https://arxiv.org/pdf/1904.07656.pdf
+
+Uncertainty in emotion recognition.	Landowska	https://www.emerald.com/insight/content/doi/10.1108/JICES-03-2019-0034/full/pdf?title=uncertainty-in-emotion-recognition
+
+No replication, no trust? How low replicability influences trust in psychology.	Wingen, Berkessel	https://osf.io/4ukq5/
+
+Video emotion analysis via deep temporal convolution.	Bao, Xu	http://zhipengbao.cn/files/multimodal.pdf
+
+Towards automatic detection of misinformation in online medical videos.	Hou, Perez-Rosas, Loeb, Mihalcea	https://arxiv.org/pdf/1909.01543.pdf
+
+When to intervene: detecting abnormal mood using everyday smartphone conversations.	Gideon, Matton, Anderau, McInnis, Provost	https://arxiv.org/pdf/1909.11248.pdf
+
+Detecting depressed users in online forums.	Shrestha, Spezzano	https://asonamdata.com/ASONAM2019_Proceedings/pdf/papers/161_0945_038.pdf
+
+Visceral versus verbal: can we see depression?	Zhu, Gedeon, Caldwell, Jones	http://www.uni-obuda.hu/journal/Zhu_Gedeon_Caldwell_Jones_96.pdf
+
+Occluded facial expression recognition enhanced through privileged information.	Pan, Wang, Xia	https://dl.acm.org/citation.cfm?id=3351049
+
+Human-like decision making: document-level aspect sentiment classification via hierarchical reinforcement learning.	Wang, Sun, Li, Wang, Si, Zhang, Liu, Zhou	https://arxiv.org/pdf/1910.09260.pdf
+
+Facial expression recognition via relation-based conditional generative adversarial network.	Lee, Choi, Song	https://dl.acm.org/citation.cfm?id=3353753
+
+Multimodal learning for identifying opportunities for empathetic responses.	Tavabi, Stefanov, Gilani, Traum, Soleymani	https://dl.acm.org/citation.cfm?id=3353750
+
+CorrFeat: correlation-based feature extraction algorithm using skin conductance and pupil diameter for emotion recognition.	Zhang, Ali, Wang, Zhu, Cesar	http://delivery.acm.org/10.1145/3360000/3353716/p404-zhang.html?ip=86.162.136.199&id=3353716&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1572891885_c5baeb0b7793b7ec45db7e823775e882
+
+Continuous emotion recognition in videos by fusing facial expression, head pose and eye gaze.	Wu, Du, Li, Huang, Wang	https://dl.acm.org/citation.cfm?id=3353739
+
+Dynamic facial models for video-based dimensional affect estimation.	Song, Sanchez-Lozano, Tellamekala, Shen, Johnston, Valstar	http://openaccess.thecvf.com/content_ICCVW_2019/papers/CVPM/Song_Dynamic_Facial_Models_for_Video-Based_Dimensional_Affect_Estimation_ICCVW_2019_paper.pdf
+
+Suicidal ideation detection: a review of machine learning methods and applications.	Ji, Pan, Li, Cambria, Long, Huang	https://arxiv.org/pdf/1910.12611.pdf
+
+Can a humanoid robot be part of the organizational workforce? A user study leveraging sentiment analysis.	Mishra, Ramanathan, Satapathy, Cambria, Magnenat-Thalmann	https://arxiv.org/abs/1905.08937
+
+Automatic detection of students' affective states in classroom environment using hybrid convolutional neural networks.	Ashwin, Guddeti	https://link.springer.com/article/10.1007/s10639-019-10004-6
+
+Dynamic facial expression recognition based on deep learning.	Deng, Wang, Yuan	https://ieeexplore.ieee.org/document/8845493
+
+Multi-modal correlated network for emotion recognition in speech.	Ren, Nie, Liu, Su	https://www.sciencedirect.com/science/article/pii/S2468502X19300488
+
+Expression, affect, action unit recognition: Aff-Wild2, multi-task learning and ArcFace.	Kollias, Zafeiriou	https://ibug.doc.ic.ac.uk/media/uploads/documents/0399-paper.pdf
+
+Aff-wild database and affwildnet.	Liu, Kollias	https://arxiv.org/pdf/1910.05318.pdf
+
+Acoustic differences between healthy and depressed people: a cross-situation study.	Wang, Zhang, Liu, Pan, Hu, Zhu	https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-019-2300-7
+
+Emotion recognition in conversations with transfer learning from generative conversation modeling.	Hazarika, Poria, Zimmermann, Mihalcea	https://arxiv.org/pdf/1910.04980.pdf
+
+Facial expression recognition using human to animated-character expression translation.	Ali, Isler, Hughes	https://arxiv.org/pdf/1910.05595.pdf
+
+Linking emotions to behaviors through deep transfer learning.	Li, Baucom, Georgiou	https://arxiv.org/pdf/1910.03641.pdf
+
+To react or not to react: end-to-end visual pose forecasting for personalized avatar during dyadic conversations.	Ahuja, Ma, Morency, Sheikh	https://arxiv.org/abs/1910.02181
+
+Your body reveals your impressions about others: a study on multimodal impression detection.	Wang, Pun, Chanel	https://archive-ouverte.unige.ch/unige:123960
+
+Detecting deception in political debates using acoustic and textual features.	Kopev, Ali, Koychev, Nakov	https://arxiv.org/pdf/1910.01990.pdf
+
+Objective human affective vocal expression detection and automatic classification with stochastic models and learning systems	.Vieira, Coelho, de Assis	https://arxiv.org/pdf/1910.01967.pdf
+
+Lexical features are more vulnerable, syntactic features have more predictive power.	Novikova, Balagopalan, Shkaruta, Rudzicz	https://arxiv.org/pdf/1910.00065.pdf
+
+Facial expression recognition using disentangled adversarial learning.	Ali, Hughes	https://arxiv.org/pdf/1909.13135.pdf
+
+Multimodal big data affective analytics: a comprehensive survey using text, audio, visual and physiological signals.	Shoumy, Ang, Sng, Rahaman, Zia	https://www.sciencedirect.com/science/article/pii/S1084804519303078
+
+Spatio-temporal encoder-decoder fully convolutional network for video-based dimensional emotion recognition.	Du, Wu, Huang, Li, Wang	https://ieeexplore.ieee.org/document/8827932/
+
+Exploiting multi-CNN features in CNN-RNN based dimensional emotion recognition on the OMG in-the-wild dataset.	Kollias, Zafeiriou	https://arxiv.org/pdf/1910.01417.pdf
+
+
+
+## 2018
+Iterpretable deep neural networks for facial expression and dimensional emotion recognition in-the-wild.	Richer, Kollias	https://arxiv.org/abs/1910.05877
+
+Multimodal sentiment analysis: addressing key issues and setting up baselines.	Poria, Majumder, Hazarika, Cambria, Hussain, Gelbukh	https://arxiv.org/pdf/1803.07427.pdf
+
+Deep facial expression recognition: a survey.	Li, Deng	https://arxiv.org/pdf/1804.08348.pdf
+
+Survey on emotional body gesture recognition.	Noroozi, Corneanu, Kaminska, Sapinski, Escalera, Anbarjafari	https://arxiv.org/pdf/1801.07481.pdf
+
+
+Emotion-preserving representation learning via generative adversarial network for multi-view facial expression recognition.   Lai, Lai	https://ieeexplore.ieee.org/document/8373839
+
+Who is really talking? A visual-based speaker diarization strategy.	Marin-Reyes, Lorenzo-Navarro, Santana, Nielsen	https://www.researchgate.net/publication/322708912_Who_is_Really_Talking_A_Visual-Based_Speaker_Diarization_Strategy
 
 ICON: Interactive conversational memory network for multimodal emotion detection.	Hazarika, Poria, Mihalcea, Cambria, Zimmermann	https://www.aclweb.org/anthology/D18-1280
 
@@ -284,7 +375,13 @@ Modeling multi-turn conversation with deep utterance aggregation.	Zhang, Li, Zhu
 .
 Prediction and localization of student engagement in the wild.	Kaur, Mustafa, Mehta, Dhall	https://arxiv.org/pdf/1804.00858.pdf	
 
+Emotion recognition in speech using cross-modal transfer in the wild.	Albanie, Nagrani, Vedaldi, Zisserman	https://arxiv.org/pdf/1808.05561.pdf
+
 ## 2017 
+
+From hard to soft: towards more human-like emotion recognition by modelling the perception uncertainty. 	Han, Zhang, Schmitt, Pantic, Schuller	https://www.researchgate.net/publication/320542701_From_Hard_to_Soft_Towards_more_Human-like_Emotion_Recognition_by_Modelling_the_Perception_Uncertainty
+
+Learning visual emotion distributions via multi-modal features fusion.	Zhao, Ding, Gao, Han	http://gaoyue.org/paper/Learning%20Visual%20Emotion%20Distributions%20via%20Multi-Modal%20Features%20Fusion,%20ACM%20Conference%20on%20Multimedia.pdf
 
 Multimodal machine learning: a survey and taxonomy.	Baltrusaitis, Ahuja, Morency.	https://arxiv.org/pdf/1705.09406.pdf
 
@@ -330,9 +427,13 @@ Artificial intelligence-assisted online social therapy for youth mental health.	
 
 Automatic detection of a driver's complex mental states.	Ma, Mahmoud, Robinson	https://www.repository.cam.ac.uk/bitstream/handle/1810/282964/iccsa17.pdf?sequence=1	
 
+Choosing prediction over explanation in psychology: lessons from machine learning.	Yarkoni, Westfall	https://www.ncbi.nlm.nih.gov/pubmed/28841086
+
 ## 2016
 
 Multi-velocity neural networks for gesture recognition in videos.	Gupta, Raviv, Raskar.	https://arxiv.org/pdf/1603.06829.pdf
+
+SoundNet: Learning sound representations from unlabeled video.	Aytar, Vondrick, Torralba	https://arxiv.org/pdf/1610.09001.pdf
 
 A comprehensive survey on pose-invariant face recognition.	Ding, Tao	https://arxiv.org/pdf/1502.04383.pdf	
 
@@ -354,6 +455,9 @@ Computer-based personality judgements are more accurate than those made by human
 Artificial intelligence in psychological practice: current and future applications and implications.	Luxton	https://psycnet.apa.org/record/2013-39417-001
 
 Learning face representation from scratch.	Yi, Lei, Liao, Li	https://arxiv.org/pdf/1411.7923.pdf
+
+## 2011
+Erroneous analyses of interactions in neuroscience: a problem of significance.	Nieuwenhuis, Forstmann, Wagenmakers	https://www.nature.com/articles/nn.2886
 
 ## 2009
 
