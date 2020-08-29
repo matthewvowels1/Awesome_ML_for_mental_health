@@ -1,5 +1,29 @@
 # Awesome_ML_for_mental_health
-A curated list (currently 277 papers) of awesome work on machine learning for mental health applications, as collected for my PhD. Includes topics broadly captured by affective computing. Facial expressions, speech analysis, emotion prediction, depression, interactions, psychiatry etc. etc. Papers are listed in reverse chronological order.
+A curated list (currently 252 papers) of awesome work on machine learning for mental health applications, as collected for my PhD. Includes topics broadly captured by affective computing. Facial expressions, speech analysis, emotion prediction, depression, interactions, psychiatry etc. etc. Papers are listed in reverse chronological order. If I've missed your paper, or a paper you want to add to the list, feel free to contribute or email me : ]
+
+## 2020
+
+Emotion based facial expression detection using machine learning. 	Aslam, Qadri, Shehzad et al.	http://www.lifesciencesite.com/lsj/lsj170820/06_36691lsj170820_35_43.pdf
+
+Jointly fine-tuning 'bert-like' self supervised models to improve multimodal speech emotion recognition.	Siriwardhana, Reis, Weerasekera, Nanayakkara	https://arxiv.org/pdf/2008.06682.pdf
+
+Detecting deepfakes using emotional irregularities. 	Murray	https://search.proquest.com/openview/d6645ec6d4f7216a83e3ac1906727ee8/1?pq-origsite=gscholar&cbl=18750&diss=y
+
+Internet of emotional people: towards continual affective computing cross cultures via audiovisual signals.	Han, Zhang, Pantic, Schuller	https://www.sciencedirect.com/science/article/pii/S0167739X20302594
+
+Generating synthetic aging trajectories with a weighted network model using cross-sectional data.	Farrell, Mitnitski, Rockwood, Rutenberg	https://www.biorxiv.org/content/10.1101/2020.02.14.949560v2.full.pdf
+
+Looking at the body: automatic analysis of body gestures and self-adaptors in psychological distress	. Lin, Orton, Li, Pavarini, Mahmoud	https://arxiv.org/pdf/2007.15815.pdf
+
+Toward emotion recognition from physiological signals in the wild: approaching the methodological issues in real-life data collection. 	Larradet, Niewiadomski, Barresi, Caldwell, Mattos	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7374761/
+
+Adversarial graph representation adaptation for cross-domain facial expression recognition. 	Xie, Chen, Pu, Wu, Lin	https://arxiv.org/pdf/2008.00859.pdf
+
+Deep learning-based classification of posttraumatic stress disorder and depression following trauma utilizing visual and auditory markers of arousal and mood. 	Schultebraucks, Yadav, Shalev, Bonanno	https://www.cambridge.org/core/journals/psychological-medicine/article/deep-learningbased-classification-of-posttraumatic-stress-disorder-and-depression-following-trauma-utilizing-visual-and-auditory-markers-of-arousal-and-mood/733197598EA30BC8379D151173AEFF8F
+
+Semi-supervised learning for facial expression-based emotion recognition in the continuous domain. 	Choi, Song	https://link.springer.com/article/10.1007/s11042-020-09412-5
+
+Deep learning-based emotion recognition from real-time videos. 	Zhou, Cheng, Lei, Benes, Adamo	https://link.springer.com/chapter/10.1007/978-3-030-49062-1_22
 
 ## 2019
 
